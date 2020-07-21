@@ -1,1 +1,4 @@
 bu bir txt dosyasıdır.
+
+
+bu iki txt dosyadır.
